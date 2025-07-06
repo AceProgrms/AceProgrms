@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AceProgrms
+- 👋 Hi, I’m @legendary_leo
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Data science
 - 📫 How to reach me {mail2olawal@mail.com}
